@@ -1,6 +1,0 @@
-[Myrepo]
-name=Myrepo
-baseurl=http://10.3.194.155:80
-enable=1
-gpgcheck=0
-gpgkey=
